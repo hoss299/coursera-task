@@ -1,0 +1,39 @@
+
+#header-nav{
+	background-color: #9da1a8;
+	border-radius:0;
+	 
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+
+}
+#collapsable-nav{
+	background-color: #23e833;
+	overflow: hidden;
+	
+
+}
+.koki{
+	height:70px;
+}
+h1{
+	margin-top: 5px;
+	text-align:left;
+	text-decoration-color: #000000;
+}
+li{
+	text-align: center;
+}
+.divy{
+	background-color: #9da1a8;
+	padding: 20px;
+	margin:15px;
+}
+h3{
+	text-align: center;
+}
+button.navbar-toggle{
+	
+	margin-top: 15px;
+}
